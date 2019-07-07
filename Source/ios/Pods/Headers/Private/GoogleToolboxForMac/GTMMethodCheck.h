@@ -1,0 +1,1 @@
+link ../../../GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h

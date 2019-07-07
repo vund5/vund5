@@ -1,0 +1,279 @@
+00:30:36: Executing task 'signingReport'...
+
+Executing tasks: [signingReport]
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+Could not find google-services.json while looking in [src/nullnull/debug, src/debug/nullnull, src/nullnull, src/debug, src/nullnullDebug]
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+Could not find google-services.json while looking in [src/nullnull/release, src/release/nullnull, src/nullnull, src/release, src/nullnullRelease]
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+WARNING: Configuration 'testCompile' is obsolete and has been replaced with 'testImplementation' and 'testApi'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+WARNING: Configuration 'testApi' is obsolete and has been replaced with 'testImplementation'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+WARNING: Configuration 'testCompile' is obsolete and has been replaced with 'testImplementation' and 'testApi'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+WARNING: Configuration 'testApi' is obsolete and has been replaced with 'testImplementation'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+:app:signingReport
+Variant: debug
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: release
+Config: release
+Store: /Users/namcd/Documents/OtherProject/DienBienPort/WIP/Sources/Mobile/FooodballApp/android/app/mykeystore.keystore
+Alias: mykeyalias
+MD5: E6:5A:72:FB:B5:E9:FC:CF:7F:B7:8A:7E:0E:1B:F4:F4
+SHA1: 20:F2:6F:92:1B:29:3F:BA:D6:A2:BF:C5:68:38:FA:13:EA:0B:E8:E7
+Valid until: Tuesday, February 6, 2046
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+:react-native-fbsdk:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: release
+Config: none
+----------
+Variant: debug
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+:react-native-google-signin:signingReport
+Variant: release
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debug
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+:react-native-i18n:signingReport
+Variant: release
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debug
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+:react-native-image-picker:signingReport
+Variant: debug
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: release
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+:react-native-push-notification:signingReport
+Variant: debugUnitTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: release
+Config: none
+----------
+Variant: debug
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+:react-native-share:signingReport
+Variant: release
+Config: none
+----------
+Variant: debug
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+:react-native-vector-icons:signingReport
+Variant: debugUnitTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: release
+Config: none
+----------
+Variant: debug
+Config: debug
+Store: /Users/namcd/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:7A:1F:0D:D3:A3:75:FA:72:45:81:E3:8D:40:C1:57
+SHA1: 89:9F:4A:F9:21:AF:61:B3:AA:26:ED:4E:09:C6:F1:58:E6:78:A3:14
+Valid until: Tuesday, October 15, 2047
+----------
+
+BUILD SUCCESSFUL in 5s
+8 actionable tasks: 8 executed
+00:30:43: Task execution finished 'signingReport'.
