@@ -19,7 +19,7 @@
     "i18next": "^11.10.2",
     "lodash": "^4.17.11",
     "lodash.isequal": "^4.5.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "native-base": "^2.8.1",
     "prettier": "1.5.3",
     "pretty-format": "^23.6.0",
